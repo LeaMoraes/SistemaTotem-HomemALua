@@ -26,6 +26,21 @@ Este projeto é um sistema de totem para uma exposição no museu com o tema "Pr
 ## Documentação
 A documentação completa do projeto está disponível no arquivo [Trabalho PIM 3° Semestre.pdf](https://github.com/LeaMoraes/SistemaTotem-HomemALua/blob/main/Documento%20do%20Projeto/Trabalho%20PIM%203°%20Semestre.pdf).
 
-## Contato
-- **Nome:** Leandro Moraes de Souza
-- **Email:** leandroms.sr1708@gmail.com
+# Contatos
+- Nome: Leandro Moraes de Souza
+- Email: leandroms.sr1708@gmail.com
+
+---
+
+- Nome: Isac Ferreira de Souza
+- Email: isacfsouza14@gmail.com
+
+---
+
+- Nome: Thais Reis da Silva
+- Email: reis.thais@hotmail.com
+
+---
+
+- Nome: Gustavo Henrique Sansivieri de Vecchio Cuebra
+- Email: gustavohenrique.cuebra@gmail.com
